@@ -71,10 +71,11 @@ T= Terrarium()
 turtle1= Turtle(T)# where the turtle lives
 
 
-"""To define how the turtle moves just change the numbers in the sections below or add your own 
-the turtle will follow the commands sequentially in order. Simply tell it which direction to go in
-when you hit run you'll see a graph appear, displaying the turtle's trajectory.
-Remember, the turtle begins at the origin i.e. at (0,0) meaning the bottom left of the graph """
+"""To define how the turtle moves just change the numbers in the sections below or add your own commands. 
+The turtle will follow the commands sequentially, in order. Simply tell it which direction to go in and
+when you hit run, you'll see a graph appear; displaying the turtle's trajectory.
+
+Note, the turtle begins at the origin i.e. at (0,0) meaning the bottom left of the graph """
 
 turtle1.forward(100)
 turtle1.left(90) #degrees
