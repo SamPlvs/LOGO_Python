@@ -77,6 +77,9 @@ when you hit run, you'll see a graph appear; displaying the turtle's trajectory.
 
 Note, the turtle begins at the origin i.e. at (0,0) meaning the bottom left of the graph """
 
+############### The following is where you input the commands to make the turtle move #################
+
+
 turtle1.forward(100)
 turtle1.left(90) #degrees
 turtle1.forward(150)
